@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "description": "Example",
+  "version": "0.0.0",
+  "author": "moqada <moqada@gmail.com>",
+  "dependencies": {
+    "gyotaku-cli": "file:.."
+  },
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "gyotaku": "gyotaku"
+  }
+}
