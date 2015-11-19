@@ -1,7 +1,7 @@
 {
   "name": "gyotaku-cli",
   "description": "CLI for Web GYOTAKU (unofficial)",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "moqada <moqada@gmail.com>",
   "bin": {
     "gyotaku": "lib/cli.js"
