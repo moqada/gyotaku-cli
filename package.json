@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "gyotaku": "^1.0.0",
-    "update-notifier": "^0.6.0",
+    "update-notifier": "^0.7.0",
     "yargs": "^4.1.0"
   },
   "devDependencies": {
