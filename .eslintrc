@@ -1,3 +1,6 @@
 extends:
   - moqada
   - moqada/cli
+rules:
+  node/no-unsupported-features: 0
+  node/shebang: 0
