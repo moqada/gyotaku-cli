@@ -21,7 +21,7 @@
     "eslint": "^3.0.0",
     "eslint-config-moqada": "^18.0.0",
     "eslint-plugin-node": "^3.0.3",
-    "npm-run-all": "^3.0.0"
+    "npm-run-all": "^4.0.0"
   },
   "files": [
     "lib"
