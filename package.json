@@ -20,7 +20,7 @@
     "chokidar-cli": "^1.1.1",
     "eslint": "^3.0.0",
     "eslint-config-moqada": "^18.0.0",
-    "eslint-plugin-node": "^3.0.3",
+    "eslint-plugin-node": "^4.0.0",
     "npm-run-all": "^4.0.0"
   },
   "files": [
